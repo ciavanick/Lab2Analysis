@@ -17,4 +17,6 @@ or
 `chmod +x run.sh
 ./run.sh name_of_your_data_acquisition_file.txt`
 
-``
+
+
+Note: there can be be some errors.
